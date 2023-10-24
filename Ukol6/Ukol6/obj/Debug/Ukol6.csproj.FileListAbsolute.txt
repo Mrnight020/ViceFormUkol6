@@ -1,0 +1,11 @@
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\bin\Debug\Ukol6.exe.config
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\bin\Debug\Ukol6.exe
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\bin\Debug\Ukol6.pdb
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\obj\Debug\Ukol6.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\obj\Debug\Ukol6.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\obj\Debug\Ukol6.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\obj\Debug\Ukol6.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\obj\Debug\Ukol6.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\obj\Debug\Ukol6.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\obj\Debug\Ukol6.exe
+C:\Users\A\OneDrive\Dokumenty\4.ROČNÍK\Ukol6\Ukol6\obj\Debug\Ukol6.pdb
